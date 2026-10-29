@@ -55,13 +55,13 @@ The project provides a practical starting point for exploring webcam interaction
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nethen-ui/webcam-
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <repository-folder>
+   cd webcam-
    ```
 
 3. Install the required dependencies, if using OpenCV:
